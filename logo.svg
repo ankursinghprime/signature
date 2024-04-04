@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="162.91" height="40" viewBox="0 0 162.91 40">
+  <defs>
+    <clipPath id="clip-iPhone_14_Pro_46">
+      <rect width="162.91" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_14_Pro_46" data-name="iPhone 14 Pro – 46" clip-path="url(#clip-iPhone_14_Pro_46)">
+    <rect width="162.91" height="40" fill="#fff"/>
+    <g id="Group_81" data-name="Group 81">
+      <g id="Group_80" data-name="Group 80" transform="translate(3 33)">
+        <g id="Rectangle_77" data-name="Rectangle 77" transform="translate(-3 -33)" fill="#fff" stroke="#f99837" stroke-width="2">
+          <rect width="40" height="40" rx="2" stroke="none"/>
+          <rect x="1" y="1" width="38" height="38" rx="1" fill="none"/>
+        </g>
+        <g id="Group_55" data-name="Group 55" transform="translate(1.146 -21.663)">
+          <text id="TSW" transform="translate(15.854 14.663)" font-size="16" font-family="LilitaOne, Lilita One"><tspan x="-15.888" y="0">TSW</tspan></text>
+        </g>
+      </g>
+      <text id="The_Software_With" data-name="The Software With" transform="translate(101 25)" font-size="14" font-family="LilitaOne, Lilita One"><tspan x="-55.076" y="0">The Software With</tspan></text>
+      <rect id="Rectangle_81" data-name="Rectangle 81" width="8" height="40" transform="translate(155)" fill="none"/>
+    </g>
+  </g>
+</svg>
